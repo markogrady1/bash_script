@@ -24,8 +24,10 @@ do
     echo $i
 done
 echo
-#loop over associate array. Unfortunatly i only have version 3.2 and need 4.0
 
+
+#loop over associate array. Unfortunatly i only have version 3.2 and need 4.0
+#so this shit wont work!!!!!
 #declare -A arr
 #arr["name"]="mark"
 #arr["age"]="41"
